@@ -1,13 +1,30 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link rel="stylesheet" href="/css/main.css">
         <title>Images - The Website</title>
-        <link type="text/css" rel="stylesheet" href="../css/main.css"/>
+        <link type="text/css" rel="stylesheet" href="../../css/main.css"/>
     </head>
     <body>
+        <nav>
+            <ul>
+                <li><a href="../../home/">Home</a></li>
+                <li>
+                    <a href="../../examples/body/">Body</a>
+                    <ul class="dropdown">
+                        <li><a href="../../about/">About Us</a></li>
+                        <li><a href="../../services/">Services</a></li>
+                        <li><a href="../../contact/">Contact</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
         <h1>Images</h1>
-        <p>This is how to put images in your webpage.</p>
-        <br>
-        <p>Line of code: <p><img src="image file location" alt="Picture alt"/></p></p>
+        <p>This is how to put images in your webpage. Line of code: </p>
+        <section>
+            <p>&lt;p&gt;&lt;img src="image file location" alt="Picture alt"/&gt;&lt;/p&gt;</p>
+        </section>
+        <p>Here is the end result:</p>
+        <p><img src="../../images/test.png" alt="test"/></p>
     </body>
 </html>
