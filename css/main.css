@@ -74,6 +74,7 @@ section {
     align-content: center;
 }
 toc ul{
+    max-width: fit-content;
     list-style-type: none;
     background-color: white;
     border: 4px solid white;
