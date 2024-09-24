@@ -74,7 +74,7 @@ section {
     align-content: center;
 }
 toc ul{
-    align-self: center;
+    padding-left: 50%;
     align-content: center;
     max-width: fit-content;
     list-style-type: none;
