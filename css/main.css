@@ -83,7 +83,7 @@ toc ul{
     padding: 16px;
 }
 toc ul li {
-    display: inline-table;
+    display: list-item;
     position: relative;
     padding-right: 8px;
     padding-left: 8px;
