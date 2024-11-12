@@ -147,7 +147,7 @@ article{
       }
       &.-blue{
         color: white;
-        background:$clr-blue;
+        background:#2196F3;
       }
       &.-green{
         color: white;
@@ -171,8 +171,8 @@ article{
           border-color: $clr-yellow;
         }
         &.-blue{
-          color: $clr-blue;
-          border-color: $clr-blue;
+          color: #2196F3;
+          border-color: #2196F3;
         }
         &.-green{
           color: $clr-green;
