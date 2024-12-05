@@ -159,7 +159,7 @@ article{
       }
       &.-red{
         color: white;
-        background:$clr-red;
+        background:#f44336;
       }
       &.-ghost{
         background: transparent;
