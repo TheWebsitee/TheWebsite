@@ -140,6 +140,7 @@ toc2 ul{
     font-family: sans-serif;
     font-weight: bold;
     padding: 16px;
+    position: left;
 }
 toc2 ul li {
     display: list-item;
