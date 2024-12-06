@@ -123,6 +123,7 @@ toc ul li {
     font-family: sans-serif;
     font-weight: bold;
     padding: 5px;
+    max-width: fit-content;
 }
 toc1 ul li {
     display: list-item;
@@ -140,7 +141,8 @@ toc2 ul{
     font-family: sans-serif;
     font-weight: bold;
     padding: 16px;
-    position: left;
+    position: center;
+    max-width: fit-content;
 }
 toc2 ul li {
     display: list-item;
@@ -158,6 +160,8 @@ toc3 ul{
     font-family: sans-serif;
     font-weight: bold;
     padding: 16px;
+    position: right;
+    max-width: fit-content;
 }
 toc3 ul li {
     display: list-item;
